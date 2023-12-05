@@ -19,6 +19,7 @@ Notes organized into the following categories:
 
 - [Architecture](./Architecture)
 - [Databases](./Databases)
+- [Best Practices](./BestPractices)
 
 ## How to Use
 
