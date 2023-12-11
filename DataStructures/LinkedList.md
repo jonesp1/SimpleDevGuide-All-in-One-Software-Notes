@@ -33,3 +33,7 @@ Linked lists are useful in various situations, and you might consider using them
 2. **More Memory Overhead:** Linked lists have more memory overhead than arrays due to the additional memory required for storing pointers.
 
 3. **Complexity:** Implementing and managing linked
+
+## LinkedList examples
+Explore practical examples of LinkedList
+- [LinkedList example](../Examples/DataStructureExamples/LinkedListExample.md): Demonstrates how to use a LinkedList.

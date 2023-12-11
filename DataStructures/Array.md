@@ -39,4 +39,4 @@ Arrays are useful in various situations, and you might consider using them when:
 ## Array examples
 Explore practical examples of arrays
 
-- [Arrays](../Examples/ArrayExample.md): Demonstrates how to use an array.
+- [Arrays example](../Examples/DataStructureExamples/ArrayExample.md): Demonstrates how to use an array.

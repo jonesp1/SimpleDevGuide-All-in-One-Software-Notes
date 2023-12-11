@@ -14,4 +14,4 @@
 
 Explore practical examples of SQL queries and database management:
 
-- [Employee Database](../Examples/SQLExample.md): Demonstrates the creation of an Employee Database with SQL queries for table creation, data insertion, updates, and more.
+- [SQL example](../Examples/DatabaseExamples/SQLExample.md): Demonstrates the creation of an Employee Database with SQL queries for table creation, data insertion, updates, and more.
