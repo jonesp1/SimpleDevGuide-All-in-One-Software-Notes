@@ -35,3 +35,8 @@ Arrays are useful in various situations, and you might consider using them when:
 3. **Homogeneous Elements:** Arrays can only store elements of the same data type. If you need to store different types of data, other data structures may be more suitable.
 
 4. **Wasted Memory:** If you declare an array with a large size but only use a small portion of it, memory may be wasted.
+
+## Array examples
+Explore practical examples of arrays
+
+- [Arrays](../Examples/ArrayExample.md): Demonstrates how to use an array.
